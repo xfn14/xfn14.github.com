@@ -23,8 +23,8 @@ const Navbar = () => {
 
                 <div className="menu">
                     <ul className={menuState ? 'showing' : ''}>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/projects">Projects</a></li>
+                        <li><Link to='/'>Home</Link></li>
+                        <li><Link to='/projects'>Projects</Link></li>
                     </ul>
                 </div>
             </nav>
