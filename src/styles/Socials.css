@@ -1,0 +1,16 @@
+.socialMedia {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.socialMedia a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+.socialMedia svg {
+    width: 45px;
+    height: 45px;
+    /* padding-left: 25px; */
+}

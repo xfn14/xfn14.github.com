@@ -1,0 +1,23 @@
+.project {
+    padding-top: 100px;
+    color: var(--white);
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+}
+
+.project h1 {
+    color: var(--primary-color);
+}
+
+.project p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.project img {
+    max-height: 600px;
+    max-width: 1000px;
+    width: auto;
+}
