@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ab7be9a.css",
+    "main.js": "/static/js/main.eddac384.js",
+    "static/media/background.mp4": "/static/media/background.5ad33b1d96cafb948e7c.mp4",
+    "static/media/solarsystem.png": "/static/media/solarsystem.09be91e490d8f48fad09.png",
+    "static/media/FolderFastSync.png": "/static/media/FolderFastSync.9e3027d6e9451f410c16.png",
+    "static/media/logo.png": "/static/media/logo.0de095da51278ff74d1d.png",
+    "index.html": "/index.html",
+    "main.4ab7be9a.css.map": "/static/css/main.4ab7be9a.css.map",
+    "main.eddac384.js.map": "/static/js/main.eddac384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab7be9a.css",
+    "static/js/main.eddac384.js"
+  ]
+}
